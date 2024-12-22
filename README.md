@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Muhammet</h1>
+<h3 align="left">A passionate web,software and game tester from Ankara/Turkey</h3>
 
-<!--
-**muhammetucar/muhammetucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Manual Software/Website Testing**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Selenium/Cucumber with Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Software/Website/Game Test**
+
+- ⚡ Continuity and diversity **improves our problem solving mindset.**
+
+<h3 align="left">Connect with me:</h3>
+
+- My e-mail is **muhammetucarr@gmail.com**
+- My website is **www.muhammetucar.com**
+- Check my cv at **www.muhammetucar.com/cv.pdf**
+
+<p align="left">
+<a href="https://instagram.com/ucarrworks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ucarrworks" height="30" width="40" /></a>
+</p>
