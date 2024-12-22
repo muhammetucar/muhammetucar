@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Muhammet</h1>
 <h3 align="left">A passionate web,software and game tester from Ankara/Turkey</h3>
+<h3 align="left">An architect (BSc + MSc Courses about Computer Aided Architecture)</h3>
 
 - 🔭 I’m currently working on **Manual Software/Website Testing**
 
@@ -18,3 +19,11 @@
 <p align="left">
 <a href="https://instagram.com/ucarrworks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ucarrworks" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Interests & hobbies</h3>
+
+- Computer 
+- Hi-Fi Stereo Gear & Hi-Fi Portable Gears
+- Youngtimer Classic Cars
+- DSLR Camera
+- Astronomy
