@@ -2,11 +2,11 @@
 <h3 align="left">A passionate web,software and game tester from Ankara/Turkey</h3>
 <h3 align="left">An architect (BSc + MSc Courses about Computer Aided Architecture)</h3>
 
-- 🔭 I’m currently working on **Manual Software/Website Testing**
+- 🔭 I’m currently working on **Architecture Projects/Software Development**
 
-- 🌱 I’m currently learning **Selenium/Cucumber with Java**
+- 🌱 I’m currently learning **MEP Design Principles**
 
-- 👯 I’m looking to collaborate on **Software/Website/Game Test**
+- 👯 I’m looking to collaborate on **Architectural Projects/Software Test for Architectural-MEP Programs**
 
 - ⚡ Continuity and diversity **improves our problem solving mindset.**
 
