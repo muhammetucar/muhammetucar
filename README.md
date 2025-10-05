@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Muhammet</h1>
-<h3 align="left">A passionate web,software and game tester from Ankara/Turkey</h3>
+<h3 align="left">A passionate Architech. Architectural and MEP Engineering Software tester from Ankara/Turkey</h3>
 <h3 align="left">An architect (BSc + MSc Courses about Computer Aided Architecture)</h3>
 
 - 🔭 I’m currently working on **Architecture Projects/Software Development**
 
 - 🌱 I’m currently learning **MEP Design Principles**
 
-- 👯 I’m looking to collaborate on **Architectural Projects/Software Test for Architectural-MEP Programs**
+- 👯 I’m looking to collaborate on **Architectural Projects/Software Test for Architectural-MEP Engineering**
 
 - ⚡ Continuity and diversity **improves our problem solving mindset.**
 
